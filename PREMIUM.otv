@@ -1930,7 +1930,7 @@ CODE:403-FORBIDDEN
 
 
 
-#EXTM3U x-tvg-url="https://tunebox.space/epgsooka, https://epgshare01.online/epgshare01/epg_ripper_PH1.xml.gz, https://tunebox.space/epgunifi, https://tunebox.space/epgastro, https://tunebox.space/epgrtm, https://epgshare01.online/epgshare01/epg_ripper_KR1.xml.gz, https://tunebox.space/epgindo, https://tunebox.space/epgsg, https://epg.pw/xmltv/epg_SG.xml.gz, https://epgshare01.online/epgshare01/epg_ripper_US_LOCALS2.xml.gz, https://epgshare01.online/epgshare01/epg_ripper_PLEX1.xml.gz,  https://epgshare01.online/epgshare01/epg_ripper_UK1.xml.gz, https://epgshare01.online/epgshare01/epg_ripper_DISTROTV1.xml.gz, https://epgshare01.online/epgshare01/epg_ripper_DUMMY_CHANNELS.xml.gz, https://epgshare01.online/epgshare01/epg_ripper_ID1.xml.gz, https://epgshare01.online/epgshare01/epg_ripper_RAKUTEN_EN1.xml.gz, https://epgshare01.online/epgshare01/epg_ripper_SG1.xml.gz, https://epgshare01.online/epgshare01/epg_ripper_US1.xml.gz, https://epg.pw/xmltv/epg_PH.xml.gz, https://epg.pw/xmltv/epg_ID.xml.gz, https://bit.ly/moj-epg, https://epgshare01.online/epgshare01/epg_ripper_IN4.xml.gz, https://i.mjh.nz/PlutoTV/all.xml" vod_library="https://tunebox.space/i̇i̇i̇i̇vod" billed-msg="PAKEJ TERBARU DAH BERADA DIPASARAN.🔥TEST ID PERCUMA DISEDIAKAN🔥.CHAT ADMIN DI WHATSAPP/TELEGRAM—011 3109 2605"
+#EXTM3U x-tvg-url="https://tunebox.space/epgsooka, https://epgshare01.online/epgshare01/epg_ripper_PH1.xml.gz, https://tunebox.space/epgunifi, https://tunebox.space/epgastro, https://tunebox.space/epgrtm, https://epgshare01.online/epgshare01/epg_ripper_KR1.xml.gz, https://tunebox.space/epgindo, https://tunebox.space/epgsg, https://epg.pw/xmltv/epg_SG.xml.gz, https://epgshare01.online/epgshare01/epg_ripper_US_LOCALS2.xml.gz, https://epgshare01.online/epgshare01/epg_ripper_PLEX1.xml.gz,  https://epgshare01.online/epgshare01/epg_ripper_UK1.xml.gz, https://epgshare01.online/epgshare01/epg_ripper_DISTROTV1.xml.gz, https://epgshare01.online/epgshare01/epg_ripper_DUMMY_CHANNELS.xml.gz, https://epgshare01.online/epgshare01/epg_ripper_ID1.xml.gz, https://epgshare01.online/epgshare01/epg_ripper_RAKUTEN_EN1.xml.gz, https://epgshare01.online/epgshare01/epg_ripper_SG1.xml.gz, https://epgshare01.online/epgshare01/epg_ripper_US1.xml.gz, https://epg.pw/xmltv/epg_PH.xml.gz, https://epg.pw/xmltv/epg_ID.xml.gz, https://raw.githubusercontent.com/TUNEBOXDlGlTAL/EPG/main/sony%20sport.xml, https://bit.ly/moj-epg, https://epgshare01.online/epgshare01/epg_ripper_IN4.xml.gz, https://i.mjh.nz/PlutoTV/all.xml" vod_library="https://tunebox.space/i̇i̇i̇i̇vod" billed-msg="PAKEJ TERBARU DAH BERADA DIPASARAN.🔥TEST ID PERCUMA DISEDIAKAN🔥.CHAT ADMIN DI WHATSAPP/TELEGRAM—011 3109 2605"
 
 #EXTINF:-1 tvg-id="101.astro" ch-number="101" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/tv1.png" group-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/malaysialogo.png" group-title="MALAYSlA",101 TV1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.63 Safari/537.36
@@ -4919,7 +4919,7 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=198
 SPORTS
 #######
 
-#EXTINF:-1 group-title="SPORTS" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/null.png" tvg-id="dummy.us",S O N Y  S P O R T S
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/null.png" tvg-id="sonysport.ott",
 https://tunebox.shop/promo2
 
 #EXTINF:-1 group-title="SPORTS" tvg-id="Sony Ten 1" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/sonysports1.png",SONY TEN SPORTS 1
@@ -5048,13 +5048,9 @@ https://a201aivottlinear-a.akamaihd.net/OTTB/iad-nitro/live/clients/dash/enc/dab
 
 
 #EXTINF:-1 tvg-id="dummy" tvg-name="dummy" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/dazn1.png" group-title="SPORTS",DAZN 1 FR
-#EXTVLCOPT:http-origin=https://veplay.top/
-https://ddy6new.newkso.ru/ddy6/premium426/mono.m3u8|referer=https://veplay.top/&user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
 http://iptvtree.net:8080/F25093/29838750/54437
 
 #EXTINF:-1 tvg-id="dummy" tvg-name="dummy" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/dazn2.png" group-title="SPORTS",DAZN 2 FR
-#EXTVLCOPT:http-origin=https://veplay.top/
-https://ddy6new.newkso.ru/ddy6/premium427/mono.m3u8|referer=https://veplay.top/&user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
 http://iptvtree.net:8080/F25093/29838750/54444
 
 
@@ -5067,7 +5063,7 @@ http://medotv.nl:8000/RAMBOfoundedoninternetsoIchangedTheFuckinguSERNAMelol123/5
 
 
 #EXTINF:-1 tvg-id="" tvg-name="ES: DAZN 2 HD" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/dazn2.png" group-title="SPORTS", DAZN 2 ES
-http://medotv.nl:8000/RAMBOfoundedoninternetsoIchangedTheFuckinguSERNAMelol123/5caU9cN5jFjZ/115844
+rtmp://f13h.mine.nu/sat/tv741
 
 
 #EXTINF:-1 tvg-id="" tvg-name="ES: DAZN 3 FHD" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/dazn3.png" group-title="SPORTS", DAZN 3 ES
